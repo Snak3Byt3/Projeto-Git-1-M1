@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700&display=swap');
+
+body {
+    background-color: #dee2e6; 
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    background-color: white; 
+    text-align: center;
+    
+}   
+
+.blog-post {
+    background-color: white;
+    padding: 8px 2px 4px 2px;
+    margin: 12px 26px 8px 26px;
+   border-radius: 7px;
+}
+
+form {
+    text-align: center;
+    color: white;
+    background-color: #3590ff;
+    padding: 8px 2px 4px 2px;
+    margin: 12px 26px 8px 26px;
+    border-style: solid;
+    border-radius: 7px;
+    border-color: black;
+}
+
+#email {
+    border: solid;
+    border-color: black;
+    border-radius: 3px;
+    border-width: 3px;
+
+}
+
+button {
+    color: white;
+    background-color: black;
+    border: solid;
+    border-color: black;
+    border-radius: 3px;
+
+}
+
+.blog-link {
+    text-align: right;
+
+}
